@@ -3,6 +3,9 @@ Backend -- REST, API, ETL/DelBoomi, toward the last five years ... go into Javas
 
 XXXX Facebook, apple,
 
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
  ... Lyft, Uber, AirBnb, or even Amazon, Hulu, NetFlix
 
 Double down on FRONT End -- web and mobile, responsive .. PWA's, native, hybrid, etc ..
