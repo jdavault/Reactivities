@@ -1,0 +1,46 @@
+
+Backend -- REST, API, ETL/DelBoomi, toward the last five years ... go into Javascript and React
+
+XXXX Facebook, apple,
+
+ ... Lyft, Uber, AirBnb, or even Amazon, Hulu, NetFlix
+
+Double down on FRONT End -- web and mobile, responsive .. PWA's, native, hybrid, etc ..
+
+-- while I'm a big believer in Mac .. I'm not iPhone, iPad, iWatch AppleTV (althought i did setup an Apple HomeKit Smart Home )
+
+------ OpenTech Alliance... Two End of  2020
+
+Basic -- DataSturctures and Algorithms -- BigO .. space and time complexites
+
+
+nuget install AutoMapper.Extensions.Microsoft.DependencyInjection -Source https://api.nuget.org/v3/index.json -Version 3.4.1
+
+
+c:/code/react-fullstack-dotnet/udemy-react-chat-app/Reactivities/Application/Application.csproj
+
+dotnet add  package AutoMapper.Extensions.Microsoft.DependencyInjection --version 8.1.1
+
+
+
+
+Design
+
+ - CSS - Tailwind, Symatentic-UI, Material-UI (screen Bootstrap)
+ - Mockups/WireFrames - Balsamiq, moqups
+ - Higher Fidelity - Figma / XD
+
+Product Ownership / Project Estimation
+
+- Architect 
+    -- Hybrid vs Native mobile apps
+    -- repostiory patterns vs CQRS  
+    -- Mongo vs Relationional
+
+-- Kotlin - Android
+-- Swift - iOS
+-- React Native
+-- Flutter
+
+DeveOps -- GitHubFlow, gitFlow, gitHub actions, etc
+           Deployment pipeline at GCP, Solutions we
